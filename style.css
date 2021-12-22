@@ -17,9 +17,9 @@ table tr:nth-child(even) {
 }
 table thead {
   background: #FFBE10!important;
-  background: -moz-linear-gradient(top, #ffce4c 0%, #ffc428 66%, #FFBE10 100%);
-  background: -webkit-linear-gradient(top, #ffce4c 0%, #ffc428 66%, #FFBE10 100%);
-  background: linear-gradient(to bottom, #ffce4c 0%, #ffc428 66%, #FFBE10 100%);
+  background: -moz-linear-gradient(top, #ffce4c 0%, #ffc428 66%, #FFBE10!important 100%);
+  background: -webkit-linear-gradient(top, #ffce4c 0%, #ffc428 66%, #FFBE10!important 100%);
+  background: linear-gradient(to bottom, #ffce4c 0%, #ffc428 66%, #FFBE10!important 100%);
   border-bottom: 2px solid #444444;
 }
 table thead th {
