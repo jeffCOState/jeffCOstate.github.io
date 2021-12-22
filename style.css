@@ -1,7 +1,7 @@
 table {
   font-family: Arial, Helvetica, sans-serif;
   border: 2px solid #FEBD10;
-  background-color: #B5B5B5 !important;
+  background-color: #848484 !important;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
@@ -12,12 +12,13 @@ table td, table th {
 }
 table tbody td {
   font-size: 13px;
+  color: #EBEBEB;
 }
 table tbody tr:nth-of-type(2n) {
-  background: #9E9E9E!important;
+  background: #353535!important;
 }
 table tbody tr:nth-of-type(1n) {
-  background: #B5B5B5;
+  background: #848484;
 }
 table thead {
   background: #FEBD10;
