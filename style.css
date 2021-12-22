@@ -27,4 +27,6 @@ table thead th {
   font-weight: bold;
   text-align: left;
 }
-
+table a, table a:hover {
+    color: black;   
+}
