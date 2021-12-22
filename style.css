@@ -1,7 +1,7 @@
 table {
   font-family: Arial, Helvetica, sans-serif;
   border: 2px solid #FEBD10;
-  background-color: #848484 !important;
+  background-color: #636363 !important;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
@@ -15,10 +15,10 @@ table tbody td {
   color: #EBEBEB;
 }
 table tbody tr:nth-of-type(2n) {
-  background: #353535!important;
+  background: #2D2D2D!important;
 }
 table tbody tr:nth-of-type(1n) {
-  background: #848484;
+  background: #636363;
 }
 table thead {
   background: #FEBD10;
@@ -31,5 +31,5 @@ table thead th {
   border-left: 2px solid #4D4D4D;
 }
 table a, a:hover, a:visited {
-    color: black;   
+    color: #FEBD10;   
 }
