@@ -16,7 +16,7 @@ table tr:nth-child(even) {
   background: #9E9E9E;
 }
 table thead {
-  background: #FFBE10;
+  background: #FFBE10!important;
   background: -moz-linear-gradient(top, #ffce4c 0%, #ffc428 66%, #FFBE10 100%);
   background: -webkit-linear-gradient(top, #ffce4c 0%, #ffc428 66%, #FFBE10 100%);
   background: linear-gradient(to bottom, #ffce4c 0%, #ffc428 66%, #FFBE10 100%);
