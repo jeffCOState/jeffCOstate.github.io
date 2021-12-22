@@ -14,7 +14,7 @@ table tbody td {
   font-size: 13px;
 }
 table tr:nth-child(even) {
-  background: #9E9E9E;
+  background: #9E9E9E !important;
 }
 table thead {
   background: #FFBE10;
