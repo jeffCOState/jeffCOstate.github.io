@@ -1,6 +1,6 @@
 table {
   border: 2px solid #FEBD10;
-  background-color: #EEEEEE;
+  background-color: #B5B5B5;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
@@ -27,16 +27,4 @@ table thead th {
   font-weight: bold;
   text-align: left;
 }
-table tfoot td {
-  font-size: 14px;
-}
-table tfoot .links {
-  text-align: right;
-}
-table tfoot .links a{
-  display: inline-block;
-  background: #1C6EA4;
-  color: #FFFFFF;
-  padding: 2px 8px;
-  border-radius: 5px;
-}
+
