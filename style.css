@@ -17,7 +17,7 @@ table tbody tr:nth-of-type(2n) {
   background: #9E9E9E!important;
 }
 table tbody tr:nth-of-type(1n) {
-  background: #FEBD10;
+  background: #B5B5B5;
 }
 table thead {
   background: #FFBE10;
