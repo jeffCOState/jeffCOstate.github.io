@@ -25,6 +25,7 @@ table thead {
   border-bottom: 2px solid #444444;
 }
 table thead th {
+  background: #FEBD10;
   font-size: 15px;
   font-weight: bold;
   text-align: left;
