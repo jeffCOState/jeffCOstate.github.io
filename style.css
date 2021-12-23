@@ -21,8 +21,8 @@ table tbody tr:nth-of-type(1n) {
   background: #636363;
 }
 table thead {
-  background: #FEBD10 !important;
-  border-bottom: 2px solid #444444 !important;
+  background: #FEBD10;
+  border-bottom: 2px solid #444444;
 }
 table thead th {
   font-size: 15px;
