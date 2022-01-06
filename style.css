@@ -6,6 +6,7 @@ table {
   background-color: #636363;
   text-align: left;
   border-collapse: collapse;
+  width: 98%;
 }
 table td, table th {
   border-style: solid;
