@@ -13,7 +13,8 @@ table td, table th {
   border-style: solid;
   border-width: 2px;
   border-color: #4D4D4D;
-  background-color: #636363
+  background-color: #636363;
+  text-align: left;
   padding: 5px;
   word-wrap: break-word;
 }
@@ -23,6 +24,7 @@ table tbody td {
   border-style: solid;
   border-width: 2px;
   border-color: #4D4D4D;
+  text-align: left;
   word-wrap: break-word;
 }
 table tbody tr:nth-of-type(2n) {
