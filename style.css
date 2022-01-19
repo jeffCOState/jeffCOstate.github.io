@@ -15,7 +15,6 @@ table td, table th {
   border-color: #4D4D4D;
   background-color: #636363
   padding: 5px;
-  width: auto;
   word-wrap: break-word;
 }
 table tbody td {
@@ -24,8 +23,9 @@ table tbody td {
   border-style: solid;
   border-width: 2px;
   border-color: #4D4D4D;
-  width: auto;
-  word-wrap: break-word;
+  
+  width:1px;
+  white-space:nowrap;
 }
 table tbody tr:nth-of-type(2n) {
   background: #2D2D2D!important;
@@ -39,3 +39,4 @@ table a, a:hover {
 table a:visited {
     color: #CB9501;   
 }
+
